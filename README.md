@@ -7,6 +7,6 @@ The company SicroMoft needs a MESSAGE BROKER SOFTWARE to asynchronosly process n
 IMPORTANT: We provide a Laptop having Ubuntu installed on it. You will find ansible, vagrant and virtual-box preinstalled as well. However, you are free to choose different tools, if you like.
 
 ## Starting Points
-https://www.ansible.com/overview/how-ansible-works?hsLang=en-us
-https://www.vagrantup.com/intro
-https://www.rabbitmq.com/admin-guide.html
+* https://www.ansible.com/overview/how-ansible-works?hsLang=en-us
+* https://www.vagrantup.com/intro
+* https://www.rabbitmq.com/admin-guide.html
